@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "reactflow-custom-nodes",
+  "owner": "TheBushidoCollective",
+  "repo": "han",
+  "path": "plugins/frameworks/reactflow/skills/reactflow-custom-nodes",
+  "branch": "main",
+  "sha": "8156cd1d11ec16c3f4550ea0b9a34bce19e6117c",
+  "source": "manual"
+}

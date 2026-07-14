@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-on-aws",
+  "owner": "ancoleman",
+  "repo": "ai-design-components",
+  "path": "skills/deploying-on-aws",
+  "branch": "main",
+  "sha": "32abb0b654661d0e789e6fb6279085c92b6683f4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aio-react-minimal-effects",
+  "owner": "luagam",
+  "repo": "agent-delivery",
+  "path": "claude-plugins/plugins/aio-react-minimal-effects/skills/aio-react-minimal-effects",
+  "branch": "main",
+  "sha": "638bcb5f6e4dbd17f6601ad2e6b8323361dfb94b",
+  "source": "manual"
+}

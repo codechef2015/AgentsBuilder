@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-audit",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "path": "plugins/dev-tools/skills/ux-audit",
+  "branch": "main",
+  "sha": "ce3515b5a1ff82a72fea701e40db3f80783c2a32",
+  "source": "manual"
+}

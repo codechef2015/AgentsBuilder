@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-hardening",
+  "owner": "ancoleman",
+  "repo": "ai-design-components",
+  "path": "skills/security-hardening",
+  "branch": "main",
+  "sha": "f2cbbcc2bf941c1354ba0b8348d0c5bfb9e78487",
+  "source": "manual"
+}
